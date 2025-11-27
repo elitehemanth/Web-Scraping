@@ -1,0 +1,14 @@
+PyQt5
+requests
+beautifulsoup4
+lxml
+pandas
+matplotlib
+pyqtgraph
+pillow
+pytesseract
+torch
+transformers
+textstat
+spacy
+sqlalchemy       
